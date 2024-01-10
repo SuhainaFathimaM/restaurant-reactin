@@ -9,10 +9,10 @@ const Home = () => {
     <Layout>
       <div className="home" style={{ backgroundImage: `url(${Banner})` }}>
         <div className="headerContainer">
-          <h1>Food Website</h1>
-          <p>Best Food In India</p>
+          <h1>Indian Hotel</h1>
+          <p>Varieties of food</p>
           <Link to="/menu">
-            <button>ORDER NOW</button>
+            <button>Click to ORDER/button>
           </Link>
         </div>
       </div>
